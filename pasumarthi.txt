@@ -1,0 +1,2 @@
+welcome to git
+echo "this is my test file for git"
