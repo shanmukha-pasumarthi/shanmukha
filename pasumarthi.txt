@@ -1,2 +1,3 @@
 welcome to git
-echo "this is my test file for git"
+echo "this is my test file for git user root"
+echo "this is my test file for git user likki"
